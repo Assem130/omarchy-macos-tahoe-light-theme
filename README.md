@@ -16,7 +16,7 @@ Text colors retain the system hues with enough contrast for small terminal and e
 
 ## Window style
 
-The theme uses Omarchy's normal window style. Earlier versions shipped an optional installer for rounded corners, blur and spring motion. If you installed it, delete `~/.config/hypr/tahoe.lua` and remove the line that loads it from `~/.config/hypr/looknfeel.lua`.
+The theme uses Omarchy's normal window style. For rounded corners, shadows, frosted blur and spring motion, install the optional window style from [macOS Tahoe Extras](https://github.com/Assem130/omarchy-macos-tahoe-extras). That repository also holds the scripts that render the wallpapers and the unlock logo, and the theme checks.
 
 ## Animated wallpapers
 
