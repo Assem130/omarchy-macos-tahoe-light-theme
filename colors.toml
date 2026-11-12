@@ -1,0 +1,38 @@
+# macOS 26 "Tahoe" — Light
+# Palette based on Apple's macOS 26 system colors (light appearance).
+mode = "light"
+
+accent = "#0065cc"
+selection = "#b3d7ff"
+muted = "#626269"
+
+background = "#ffffff"
+dark_background = "#f5f5f7"
+darker_background = "#e8e8ed"
+lighter_background = "#ebebf0"
+
+foreground = "#1d1d1f"
+dark_foreground = "#48484f"
+light_foreground = "#3c3c43"
+bright_foreground = "#000000"
+
+# Text colors retain the system hues with enough contrast for small text.
+red = "#c92438"
+yellow = "#856000"
+orange = "#a94b00"
+green = "#187535"
+cyan = "#006e86"
+blue = "#0065cc"
+magenta = "#9d259f"
+brown = "#815637"
+
+bright_red = "#bd1741"
+bright_yellow = "#886000"
+bright_green = "#12783c"
+bright_cyan = "#007088"
+bright_blue = "#594bea"
+bright_magenta = "#a326a5"
+
+# Keep the brighter system blue for the focused window outline.
+hyprland_active_border = "rgba(0088ffff)"
+hyprland_inactive_border = "rgba(00000026)"
